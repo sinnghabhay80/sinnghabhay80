@@ -13,9 +13,9 @@ I build ingestion pipelines, reconciliation logic, and explore lakehouse interna
 
 ## Core skills
 
-Python • Scala • SQL • PySpark • Apache Spark  • DataBricks
-Apache Iceberg • Delta Lake • Trino • Apache Kafka • Airflow  
-Azure • Azure Synapse • Azure Data Factory
+- Python • Scala • SQL • PySpark • Apache Spark  • DataBricks
+- Apache Iceberg • Delta Lake • Trino • Apache Kafka • Airflow  
+- Azure • Azure Synapse • Azure Data Factory
 
 ## Interests
 
