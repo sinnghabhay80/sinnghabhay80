@@ -1,7 +1,7 @@
 # Hi, I’m Abhay 👋
 
 I work as a Data Engineer using SQL, Python, Scala and Spark.  
-I build ingestion pipelines, reconciliation logic, and explore lakehouse internals with Iceberg, Trino and AWS/ Azure services.
+I build ingestion pipelines, reconciliation logic, and explore lakehouse internals with Iceberg, Trino and AWS/Azure services.
 
 ## What you’ll find here
 
@@ -13,9 +13,9 @@ I build ingestion pipelines, reconciliation logic, and explore lakehouse interna
 
 ## Core skills
 
-Python • Scala • SQL • PySpark • Apache Spark  
-Apache Iceberg • Trino • Kafka • Airflow  
-AWS • Azure Synapse • Azure Data Factory • ELK
+Python • Scala • SQL • PySpark • Apache Spark  • DataBricks
+Apache Iceberg • Delta Lake • Trino • Apache Kafka • Airflow  
+Azure • Azure Synapse • Azure Data Factory
 
 ## Interests
 
