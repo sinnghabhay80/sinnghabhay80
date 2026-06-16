@@ -1,46 +1,64 @@
-# Hi, I’m Abhay 👋
+# Hi, I'm Abhay 👋
 
-I work as a Data Engineer using SQL, Python, Scala and Spark.  
-I build ingestion pipelines, reconciliation logic, and explore lakehouse internals with Iceberg, Trino and AWS/Azure services.
+Data Engineer at **Xebia IT Architects**, embedded on the Sephora retail data platform — one of few engineers simultaneously across L2 production support and active feature development on a **PB-scale lakehouse running ~1,500 active Databricks jobs and ADF pipelines**.
 
-## What you’ll find here
+Most recently I solo-built **ARIA** — a production agentic AI triage system that reduced L2 pipeline failure investigation from 30–60 minutes to 2–5 minutes per incident, using a custom LLM agent loop (Azure OpenAI + Databricks-hosted Claude Sonnet) orchestrating 23 tools across ADF, Databricks, ServiceNow, and Azure DevOps.
 
-- End to end data projects with bronze, silver and gold layers  
-- Spark based ETL and streaming experiments  
-- Automation tools for data workflows and CI/CD  
-- Postgres and warehouse focused SQL work  
-- Scraping and data collection utilities
+---
 
-## Core skills
+## What you'll find here
 
-- Python • Scala • SQL • PySpark • Apache Spark  • DataBricks
-- Apache Iceberg • Delta Lake • Trino • Apache Kafka • Airflow  
-- Azure • Azure Synapse • Azure Data Factory
+- **Agentic AI systems** — LLM agent loops, tool orchestration, production Databricks Apps
+- **End-to-end data platforms** — Bronze/Silver/Gold Medallion architecture, real-time + batch hybrid pipelines
+- **Platform automation** — CI/CD-driven ADF release engineering, Azure DevOps REST API tooling
+- **Spark & streaming** — PySpark, Spark Structured Streaming, Apache Kafka, Delta Lake
+- **Observability** — Prometheus, Grafana, custom alerting via Azure Logic Apps
 
-## Interests
+---
 
-Distributed systems, data quality, catalog behavior, performance tuning, and product driven data platforms.
+## Core Stack
+
+**Languages:** Python · Scala · SQL
+
+**Processing & Streaming:** Apache Spark (Core, SQL, Structured Streaming) · PySpark · Apache Kafka
+
+**Storage & Lakehouse:** Delta Lake · Medallion Architecture · ADLS Gen2 · MinIO
+
+**Cloud & DevOps:** Azure Data Factory · Azure Databricks · Databricks Notebooks · Azure DevOps · Docker · CI/CD
+
+**AI & Agents:** Azure OpenAI (GPT-4.1-mini) · Databricks-hosted LLMs (Claude Sonnet) · OpenAI Function-Calling · Streamlit
+
+**Orchestration:** Apache Airflow · ADF Pipelines
+
+**Monitoring:** Prometheus · Grafana · Azure Logic Apps
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **ARIA** | Production agentic AI triage — 30–60 min → 2–5 min per incident | Python, Azure OpenAI, Claude Sonnet, Databricks Apps |
+| **Real-Time Flight Monitoring** | End-to-end real-time + batch hybrid platform on Delta Lake | PySpark, Spark Streaming, Airflow, Delta Lake |
+| **Retail-360** | Event-driven multi-source retail analytics platform | Kafka, PySpark, Docker, MinIO, Prometheus |
+| **ADF Release Pipeline** | Multi-environment CI/CD release engineering for ADF | Python, Azure DevOps, ADF, Git |
+
+---
+
+## Certifications
+
+- 🏆 **Databricks Certified Data Engineer Professional** — Valid Jun 2026 – Jun 2028
+- ✅ **Databricks Certified Data Engineer Associate** — Valid Nov 2023 – Jan 2028
+- ✅ **Databricks Lakehouse Fundamentals** — Valid Jan 2025 – Jan 2026
+
+---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/abhaysingh80  
-- GitHub: https://github.com/sinnghabhay80  
-- Portfolio: https://sinnghabhay80.github.io/portfolio-website/
+- 🌐 Portfolio: [sinnghabhay80.github.io/portfolio-website](https://sinnghabhay80.github.io/portfolio-website/)
+- 💼 LinkedIn: [linkedin.com/in/abhaysingh80](https://www.linkedin.com/in/abhaysingh80)
+- 📧 writetoabhaysingh21@gmail.com
 
-I’m open to collaborating on data platform tools, optimization problems, and intelligence driven analytics.
+---
 
-
-<!--
-**sinnghabhay80/sinnghabhay80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open to collaborating on data platform tooling, agentic AI systems, and large-scale pipeline architecture.*
